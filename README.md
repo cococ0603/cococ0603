@@ -4,7 +4,6 @@
 **장세민입니도**
 
 
-## Hi there 👋
 
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
