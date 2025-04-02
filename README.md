@@ -1,14 +1,7 @@
-### 왜안되느데
-
-# 이거 왜 되넹
 
 ## 히히
 안냐쎄염
-
-**집에 가고시ㅍ다**
-*줄바꿈은 어예하는 거지 ;;*
-
-![Image](https://github.com/user-attachments/assets/60d4493a-a2f4-465c-a923-8a3fb5aef919)
+![Image](https://github.com/user-attachments/assets/2d8644c3-642a-4e2e-9e0d-295637ca2a9f)
 
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
