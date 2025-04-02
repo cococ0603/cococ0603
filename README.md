@@ -8,9 +8,7 @@
 **집에 가고시ㅍ다**
 *줄바꿈은 어예하는 거지 ;;*
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&width=435&lines=+%ED%9E%88%ED%9E%88+%EB%84%88%EB%AC%B4+%EC%9E%AC%EB%B0%8B%EB%8B%B9+%EC%95%84%EB%8B%88%ED%8F%B0%ED%8A%B8%EC%99%9C%EC%95%88%EB%8F%BC)](https://git.io/typing-svg)
-
+https://ibb.co/prGgB5BC
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
