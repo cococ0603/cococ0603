@@ -3,7 +3,7 @@
 
 **장세민입니도**
 
-'int main (void)'
+'int main (void){}'
 
 
 <!--
