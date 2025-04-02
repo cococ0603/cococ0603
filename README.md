@@ -2,9 +2,7 @@
 ## 히히
 안냐쎄염
 
-
-
-<img src="https://github.com/user-attachments/assets/2d8644c3-642a-4e2e-9e0d-295637ca2a9f.png" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/d9294c35-303d-41b6-8973-8a391a3176a2.png">
 
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
