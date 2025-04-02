@@ -7,8 +7,8 @@
 
 **집에 가고시ㅍ다**
 *줄바꿈은 어예하는 거지 ;;*
+![title](https://ibb.co/prGgB5BC)  
 
-https://ibb.co/prGgB5BC
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
