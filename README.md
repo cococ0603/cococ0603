@@ -1,14 +1,13 @@
 ## Introduce
 안냐쎄염
 
+
 ## Hi there 👋
 
 <!--
 **cococ0603/cococ0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Introduce
-안녕하세요 세민이에염
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
