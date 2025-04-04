@@ -4,9 +4,10 @@
 
 ## HELLO!
 안녕하세요! 병아리 개발자🐤 minimin 입니다
+
 아직 많이 부족한 실력이지만 천천히 배워나가고 있어요
 
-노래 듣는 걸 좋아하고 야구를 좋아해요 👀⚾
+노래 듣는 걸 좋아하고 사진 찍기를 취미로 가지고 있어요📸
   
 ### 📬 SNS 📬
 <a href="https://minimin05.tistory.com/" target="_blank">
