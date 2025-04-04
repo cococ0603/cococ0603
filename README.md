@@ -7,10 +7,12 @@
 ### 📬 SNS 📬
 
 <p>
+  
   ### 📖 Skills 📖
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minimin-05)](https://github.com/anuraghazra/github-readme-stats)
