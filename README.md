@@ -6,6 +6,9 @@
 <a href="https://minimin05.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
+<a href="mailto:22421628@yu.ac.kr" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 
 ### 📖 Skills 📖
