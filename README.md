@@ -1,6 +1,8 @@
 
-## 히히
+## Welcome To My GitHub
 안냐쎄염
+
+### 📱SNS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minimin-05)](https://github.com/anuraghazra/github-readme-stats)
 
