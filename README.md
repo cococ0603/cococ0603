@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=68BDEA&text=Welcome%20to%20My%20GitHub&reversal=false&section=header&textBg=false&fontSize=49&fontAlignY=40&animation=fadeIn&rotate=0&desc=minimin's%20GitHub%20profile&descAlignY=57&fontColor=FFFFFF)
 ## HELLO!
+
 안녕하세요! 병아리 개발자🐤 minimin 입니다
 
 아직 많이 부족한 실력이지만 천천히 배워나가고 있어요
